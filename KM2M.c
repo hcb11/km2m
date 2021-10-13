@@ -6,7 +6,7 @@ Metric Unit "Kilometer" to the Imperial unit
  My Discord: xx_Patrickroll_xx#1405
  My Twitter: https://twitter.com/TechieUltraz
 
- Made by Harshad Chandrabose*/
+ Made by Harshad Chandrabose on Oct. 13 2021*/
  #include <stdio.h>
  #define Mile 1.609344 //Defines 1 Mile in kilometers
  #define km 0.6213712 //Defines 1 Kilometer in miles
